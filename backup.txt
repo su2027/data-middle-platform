@@ -1,0 +1,16 @@
+hujun工作交接
+```
+数据源
+docker push hujun/datasource-service:v3
+
+10.254.25.25:8080/hujun/datasource-service
+
+数据库
+10.254.24.25:3306
+username: data
+password: ztgame@123
+```
+
+后台http://192.168.33.4:8080/
+账号：hujun@ztgame.com
+密码: Ztgame@2023
